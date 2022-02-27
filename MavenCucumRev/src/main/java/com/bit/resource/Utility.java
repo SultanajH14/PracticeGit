@@ -11,5 +11,7 @@ public class Utility {
 public void getUrl(String url) {
 	dr.get(url);
 }
- 
+ public void clickOnElement() {
+	 
+ }
 }
