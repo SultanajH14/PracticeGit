@@ -15,4 +15,7 @@ public void getUrl(String url) {
  public void clickOnElement() {
 	 dr.findElement(By.xpath("")).click();
  }
+ public void type() {
+	 	
+ }
 }
